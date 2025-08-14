@@ -1,0 +1,12 @@
+# Solana Devnet Testing
+
+This repository is created for testing purposes on the Solana Devnet network.  
+It is part of my learning process for blockchain development and smart contract deployment.  
+
+## Goals
+- Interact with Solana programs.
+- Experiment with NFTs and token creation on Devnet.
+- Practice using Solana CLI and dApps.
+
+## Notes
+This project is not intended for production and only serves as a sandbox for experiments.
